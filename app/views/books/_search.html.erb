@@ -1,0 +1,14 @@
+
+    <%= search_form_for @q do |f| %>
+    <label for="exampleInputEmail1">Titulo</label>
+    <%= f.search_field :title_cont%>
+    <%= f.submit "Search", class:"btn btn-secondary", style:"position:asbolute; margin-top:-20px;" %>
+    <br>
+    <%end%>
+    <%= search_form_for @j do |f| %>
+    <label for="exampleInputEmail1">Autor</label>
+    <%= f.search_field :author_cont, style: "position:asbolute; margin-top:-35px;"%>
+    <%= f.submit "Search", class:"btn btn-secondary", style:"; position:asbolute; margin-right:20px;"%>
+    <br>
+
+<% end %>
