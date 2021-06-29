@@ -1,13 +1,13 @@
 # Project
 
-[project.com](https://project.com)
+Zygo Test
 
 ## Install
 
 ### Clonar o Rep
 
 ```shell
-git clone git@github.com:juliendargelos/project.git
+git clone https://github.com/induc1ng/zygo_prova.git
 cd project
 ```
 
