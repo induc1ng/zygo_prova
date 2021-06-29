@@ -19,7 +19,7 @@ ruby -v
 ### Linux / Unix
 
 ```shell
-rbenv install 2.5.1
+rbenv install 2.7.3
 ```
 
 ### Install dependencies
